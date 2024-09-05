@@ -24,4 +24,13 @@ In this work, we present a novel method for extensive multi-scale generative ter
 Fine-tuned checkpoints of the models used to generate the results for our paper have been uploaded to HuggingFace [here](https://huggingface.co/Earthgen/models). 10gen contains the base layer module as well as a map-conditioned controlnet add-on, while the rest of the folders in the format {lr}to{hr} include the corresponding super-resolution modules from zoom lr to zoom hr. 
 
 ## Citation
-TBD
+```
+@misc{sharma2024earthgengeneratingworldtopdown,
+      title={EarthGen: Generating the World from Top-Down Views}, 
+      author={Ansh Sharma and Albert Xiao and Praneet Rathi and Rohit Kundu and Albert Zhai and Yuan Shen and Shenlong Wang},
+      year={2024},
+      eprint={2409.01491},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.01491}, 
+}
