@@ -1,6 +1,6 @@
 # EarthGen: Generating the World from Top-Down Views
 
-[[Paper]](https://arxiv.org/abs/XXXX.XXXXX) 
+[[Paper]](https://arxiv.org/abs/2409.01491) 
 
 [[Interactive Demo]](https://earthgen.github.io)
 
